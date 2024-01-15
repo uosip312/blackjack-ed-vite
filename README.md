@@ -3,7 +3,7 @@
 ¡Bienvenido a BlackJack, juego de cartas contra tú PC!
 
 ## 📄Descripción del Proyecto
-Juego web basado en el BlackJack de cartas, el jugador ira pidiendo cartas hasta obtener 21 o el numero más cercano, luego será el turno de la computadora, a ver quien gana!
+Juego web de cartas basado en el BlackJack, el jugador ira pidiendo cartas hasta obtener 21 o el numero más cercano, luego será el turno de la computadora, a ver quien gana!
 
 [DEMO](https://uosip312.github.io/blackjack-ed-vite/)
 
